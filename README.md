@@ -17,8 +17,12 @@ The dataset used in this analysis contains online sales records with the followi
 - Total Revenue
 - Region
 - Payment Method
-
 The data covers the year 2024 and includes transactional details across multiple regions and product categories.
+
+## Attached Results Table
+As part of this submission, I have attached the **Month-by-Month Sales Trends table**, which is the output of one of the key queries. This table summarizes:
+- The total revenue for each month.
+- The total units sold for each month.
 
 ## Methodology
 The analysis was performed using structured SQL queries that:
